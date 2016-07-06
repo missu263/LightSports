@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="toolbar_under_line">#CECECE</color>
+    <color name="accentColor">#50514F</color>
+    <color name="transparent">#00000000</color>
+    <color name="icon_enabled">#6392D7</color>
+    <color name="icon_disabled">#D3D3D3</color>
+    <color name="gray">#80808080</color>
+    <color name="backgroundGray">#EFEFF4</color>
+
+
+    <color name="white">#ffffff</color>
+    <color name="placeholder_avatar">#fff</color>
+    <color name="item_badge_background">#64B3F1</color>
+
+    <color name="black">#FF000000</color>
+    <color name="tab_under_line">#387CB2</color>
+    <color name="tab_text_enabled">#767676</color>
+    <color name="tab_text_disabled">#B3B3B3</color>
+
+    <color name="profile_space_divider">#E0E0E0</color>
+    <color name="profile_item_divider">#D6D6D6</color>
+
+    <color name="blue">#ff03A9F4</color>
+    <color name="green">#ff4CAF50</color>
+    <color name="red">#ffF44336</color>
+    <color name="yellow">#ffFFEB3B</color>
+    <color name="yellow_20">#FAD394</color>
+    <color name="yellow_border">#E2A440</color>
+    <color name="blue_20">#92D0EA</color>
+    <color name="blue_border">#46B2DF</color>
+    
+    <color name="topic_header_bg">#F6F6F6</color>
+
+    <color name="gray_6b">#6B6B6B</color>
+    <color name="gray_7b">#7B7676</color>
+    <color name="gray_9b">#9B9B9B</color>
+    <color name="gray_91">#91999F</color>
+    <color name="gray_c9">#C9C8C8</color>
+    <color name="gray_ac">#ACACAC</color>
+    <color name="gray_e0">#E0E0E0</color>
+
+    <color name="blue_a4">#A4B3BF</color>
+    <color name="blue_a5">#A5B3C0</color>
+
+    <color name="red_DE">#DE7676</color>
+</resources>
